@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Kaggle, LinkedIn.
 - 📫 How to reach me: Whatsapp, Telegram, LinkedIn.
-- 😄 Pronouns: Mr. Kalyal, Progrex, Xeri.
+- 😄 Pronouns: He, Him.
 - ⚡ Fun fact: I have a researcher's mind. I like to dig deep into concepts and don't stop until I understand why and how things work.
 
 ## Connect With Me
