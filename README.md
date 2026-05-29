@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Kaggle, LinkedIn.
 - 📫 How to reach me: Whatsapp, Telegram, LinkedIn.
 - 😄 Pronouns: He, Him.
-- ⚡ Fun fact: I have a researcher's mind. I like to dig deep into concepts and don't stop until I understand why and how things work.
+- ⚡ Fun fact: I have a researcher mind. I like to dig deep into concepts and don't stop until I understand why and how things work.
 
 ## Connect With Me
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/programmerx3d)
