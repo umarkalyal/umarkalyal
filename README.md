@@ -1,4 +1,4 @@
-# Hi, I'm Umar Kalyal 👋
+# Hi there, I'm Umar Kalyal 👋
 
 ## About Me
 - 🔭 I’m interested in Computer Programming and Artificial Intelligence.
