@@ -1,7 +1,7 @@
 # Hi there, I'm Umar Kalyal 👋
 
 ## About Me
-- 🔭 I’m interested in Computer Programming and Artificial Intelligence.
+- 🔭 I m interested in Computer Programming and Artificial Intelligence.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Kaggle, LinkedIn.
 - 📫 How to reach me: Email, Whatsapp, Telegram, LinkedIn، X.
